@@ -300,7 +300,7 @@ Airline-Management-System-Salesforce/
 
 **"Airline Management System using Salesforce Customer Relationship Management"**  
 *Mr. Prathamesh Killol*  
-Department of CS&E, PRMCEAM, Badnera, Maharashtra
+Department of CSE(DS), PRMCEAM, Badnera, Maharashtra
 
 | | |
 |---|---|
